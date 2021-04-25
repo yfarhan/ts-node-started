@@ -10,6 +10,7 @@ A starter template
 - Typescript
 - ESLint
 - Prettier
+- husky
 
 ---
 
