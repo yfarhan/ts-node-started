@@ -6,7 +6,8 @@
   "scripts": {
     "lint": "eslint '*/**/*.{js,ts,tsx}' --quiet",
     "start": "ts-node-dev --inspect --respawn --transpile-only src/server.ts",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
