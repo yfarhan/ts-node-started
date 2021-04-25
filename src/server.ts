@@ -1,4 +1,4 @@
-let num: number = 10;
+let num = 10;
 
 setInterval(() => {
   console.log('number:', num++);
